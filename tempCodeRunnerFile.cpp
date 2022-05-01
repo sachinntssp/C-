@@ -1,5 +1,6 @@
-;i++)
-    // {
-    //     int x;cin>>x;
-    //     v.push_back(x);
+i++){
+    //     for(int j:table[i]){
+    //         cout<<j<<" ";
+    //     }
+    //     cout<<"\n";
     // }
